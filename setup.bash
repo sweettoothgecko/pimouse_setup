@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-#written by Ryuichi Ueda
+#written by R.Ueda
 
 exec 2> /tmp/setup.log
 
